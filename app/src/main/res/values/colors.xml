@@ -7,6 +7,10 @@
     <color name="pinky">#C50390</color>
     <color name="last_pink">#EF029D</color>
     <color name="accent_pink">#FE2BD0</color>
+    <color name="super_purple">#9E2E81</color>
+    <color name="purple">#B60089</color>
+    <color name="light_grey">#262525</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
 </resources>
